@@ -13,7 +13,7 @@ def get_requirements(file_path:str)->List[str]:
         return requirements
 
 setup(
-    name='ML-Project',
+    name='MLProject',
     version='0.1.0',
     author='Sonu Kumar Suman',
     author_email='sonukumarsuman82@gmail.com',
