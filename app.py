@@ -1,5 +1,4 @@
-import src.MLProject.logger as logger
+import src.MLProject.logger as logging
 
-logger.logging.info("App started")
-
-print("Working")
+if __name__ == "__main__":
+    logging.info("the execution has started")
